@@ -1,0 +1,13 @@
+.projects__button-list {
+  @extend %list;
+  display: flex;
+  justify-content: center;
+  margin-left: -4px;
+  margin-right: -4px;
+  margin-bottom: 50px;
+}
+
+.buttons__item {
+  margin-left: 4px;
+  margin-right: 4px;
+}
